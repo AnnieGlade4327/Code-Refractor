@@ -9,7 +9,7 @@
 ![Digital-Marketing-Meeting](digital-marketing-meeting.jpg)
 ### Table of Contents
 * [Search-Engine-Optimization](#search-engine-optimization)
-* [Online-Repuatation-Management](#online-reputation-management)
+* [Online-Reputation-Management](#online-reputation-management)
 * [Social-Media-Marketing](#social-media-marketing)
 
 <img src="search-engine-optimization.jpg" alt="organized desk, image of coffee and laptop from above."
