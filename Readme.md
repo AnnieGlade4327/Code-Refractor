@@ -4,7 +4,7 @@
 ![Horiseon Logo](digitial-marketing-meeting.jpg)
 Format: ![Horiseon Logo](url)
 ## Table of Contents
-* [Search-Engine-Optimization](#search-engine-optimizaton)
+* [Search-Engine-Optimization](#search-engine-optimization)
 * [Online-Repuataton-Management](#online-reputation-management)
 * [Social-Media-Marketing](#social-media-marketing)
 
