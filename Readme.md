@@ -2,7 +2,6 @@
 | ------------ | ------------------- |
 | header logo  | Hero Content |
 ![Horiseon Logo](digitial-marketing-meeting.jpg)
-Format: ![Horiseon Logo](url)
 ## Table of Contents
 * [Search-Engine-Optimization](#search-engine-optimization)
 * [Online-Repuataton-Management](#online-reputation-management)
