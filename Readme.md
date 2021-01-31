@@ -1,7 +1,8 @@
 | First Header | Hero Content Navbar |
 | ------------ | ------------------- |
 | header logo  | Hero Content |
-![Horiseon Logo](digitial-marketing-meeting.jpg)
+## Background Image/Horiseon Logo
+![Digital-Marketing-Meeting](digitial-marketing-meeting.jpg)
 ## Table of Contents
 * [Search-Engine-Optimization](#search-engine-optimization)
 * [Online-Repuataton-Management](#online-reputation-management)
