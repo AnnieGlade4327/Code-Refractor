@@ -67,6 +67,6 @@
     </section>
 #### High returns on quarterly results!
 
--Higher Profit Margins-
--More effective marketing-
--*Long-Term* Contracts and **stronger** Business Relationships-
+Higher Profit Margins |
+More effective marketing |
+*Long-Term* Contracts and **stronger** Business Relationships|
