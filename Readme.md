@@ -77,3 +77,4 @@
 
 ##### Contributors
 Horiseon Social Solution Services, UofUBootCamp, individual contributor/assignment edit
+Thank you git icon for the use of your emojis!
