@@ -1,9 +1,15 @@
 | First Header | Hero Content Navbar |
 | ------------ | ------------------- |
 | header logo  | Hero Content |
+|--------------| -------------|
+|Search Engine Optimization| Lead Generation |
+|Online Reputation Management| Brand Awareness |
+|Social Media Marketing| Cost Management |
+| ---------------------| ----------------|
+
 ## Background Image/Horiseon Logo
 ![Digital-Marketing-Meeting](digital-marketing-meeting.jpg)
-## Table of Contents
+### Table of Contents
 * [Search-Engine-Optimization](#search-engine-optimization)
 * [Online-Repuatation-Management](#online-reputation-management)
 * [Social-Media-Marketing](#social-media-marketing)
@@ -70,3 +76,5 @@
 * Higher Profit Margins |
 * More effective marketing |
 * *Long-Term* Contracts and **stronger** Business Relationships |
+
+##### Contributors
